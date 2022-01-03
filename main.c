@@ -12,7 +12,7 @@ Initial Security()
 
 Final Security()
 {
-new security patch//some code
+//some code
 }
 
 
